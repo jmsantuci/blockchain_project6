@@ -1,0 +1,23 @@
+{
+  "name": "supply-chain-jms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pk <jmsantuci@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "lite-server": "2.4.0",
+    "truffle-assertions": "^0.9.1"
+  },
+  "dependencies": {
+    "any-promise": "^1.3.0",
+    "bindings": "^1.5.0",
+    "truffle-hdwallet-provider": "^1.0.0-web3one.5"
+  }
+}
